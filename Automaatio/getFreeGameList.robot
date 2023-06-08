@@ -12,7 +12,7 @@ Get Text List of Elements with Class
     # Get all elements with a certain class.
     ${elements}    Get Elements    css=.entry-title
 
-    # Get the text of those elements and add it to a list.
+    # Get the text of the element and add it to a list.
     ${text_list} =     Create List
     FOR    ${element}    IN    @{elements}
         ${text}    Get Text    ${element}
