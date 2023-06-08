@@ -19,7 +19,7 @@ Get Text List of Elements with Class
         Append To List    ${text_list}    ${text}
     END
 
-    # For changing line before list of games.
+    # For changing line before printing the list
     Log To Console    ''
 
     # Log the text from the list.
