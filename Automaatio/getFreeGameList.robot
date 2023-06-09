@@ -3,7 +3,7 @@ Library    Browser
 Library    lib/python3.10/site-packages/robot/libraries/Collections.py
 
 *** Variables ***
-${web_site} =    https:/freegogpcgames.com/
+${web_site} =    https:/example.com/
 ${class_name} =    entry-title
 
 *** Test Cases ***
