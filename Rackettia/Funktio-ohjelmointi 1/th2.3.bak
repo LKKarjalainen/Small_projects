@@ -1,0 +1,10 @@
+#lang racket
+(define (average x y)
+  (/ (+ x y) 2))
+
+(define (make-point x y)
+  (cons x y))
+
+(define (make-segment a b)
+  (cons a b))
+

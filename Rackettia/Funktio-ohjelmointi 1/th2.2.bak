@@ -1,0 +1,11 @@
+#lang racket
+(define (print-point p)
+  (newline)
+  (display "(")
+  (display (x-point p))
+  (display ",")
+  (display (y-point p))
+  (display ")"))
+
+(define (make-point x y)
+  (cons x y))

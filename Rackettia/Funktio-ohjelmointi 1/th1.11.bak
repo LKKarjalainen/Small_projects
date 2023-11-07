@@ -1,0 +1,4 @@
+#lang racket
+(define (prc n)
+  (cond ((< n 3) n)
+        (else (+ (prc (- n 1)) (* 2 (prc (- n 2))) (* 3 (prc (- n 3)))))))

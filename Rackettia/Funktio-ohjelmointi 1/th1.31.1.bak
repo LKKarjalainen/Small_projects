@@ -1,0 +1,9 @@
+#lang racket
+(define (product arg)
+  (* arg arg))
+(define (factorial n))
+(define pi )
+
+product
+factorial
+pi
