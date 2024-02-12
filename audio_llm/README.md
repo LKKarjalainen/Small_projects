@@ -2,10 +2,11 @@ Run inside a python virtual environment (venv) with python3 (e.g. python3 audio_
 
 
 Requirements:
-  - An Nvidia GPU with CUDA.
-  - A Large Language Model. Llama-2 recommended.
+  - A Llama.cpp compatible GPU. (Nvidia recommended)
+  - A Llama.cpp compatible Large Language Model. (Llama-2 recommended)
   - OpenAI whisper model.
   - ffmpeg
+  - Rust
   - Python3 with:
     - Pydub
     - nvidia-smi
