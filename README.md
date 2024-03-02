@@ -1,4 +1,4 @@
-Mainly exercises from various programming courses.
+Contains exercises from various courses and other small programs.
 
 audio_transcription allows the user to transcribe long audio files. Normally OpenAI's whisper model is limited to 30 seconds of audio. This script is a workaround for that limitation.
 
