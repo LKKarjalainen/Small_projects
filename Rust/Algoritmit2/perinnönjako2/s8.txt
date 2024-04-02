@@ -1,0 +1,22 @@
+4 7825349
+-1 Klaara 0 0       
+-2 Vihtori 0 0      
+-3 Amalia 0 2
+-4 Bernard 2 1
+5 Cecilia 1 2     
+-6 Erika 0 0
+7 Ferdinand 6 0
+-8 Daniel 0 1
+0
+4 7825349
+-1 Klaara 0 0 -2 Vihtori 0 0
+  3 Amalia 0 2
+-4 Bernard 2 1
+  5 Cecilia 1 2
+ -6
+ Erika     0
+
+     0
+ 7 Ferdinand 6 0
+ 8 Daniel 0 1 0 1 9 -1 ToinenVainaja 0 0 0 0
+ 2 syöte_loppui_ennen_tätä_kohtaa 1 0 0 0
